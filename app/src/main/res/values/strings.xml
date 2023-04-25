@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CafeApp</string>
+
+    <string-array name="donut_type">
+        <item>Yeast Donuts</item>
+        <item>Cake Donuts</item>
+        <item>Donut Holes</item>
+    </string-array>
+</resources>
